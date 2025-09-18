@@ -32,4 +32,6 @@ This dashboard provides significant value by:
 • Informing Policy Decisions: The trend analysis and breakdown by casualty severity can help authorities allocate resources effectively and measure the impact of new safety policies.
 
 6. Screenshots / Demos
-   Show what the dashboard looks like. -https://github.com/Charishma-1234/Road_accident_analysis/blob/main/Screenshott.png
+   Show what the dashboard looks like. 
+![Uploading Screenshott.png…]()
+   
